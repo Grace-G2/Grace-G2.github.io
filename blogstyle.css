@@ -1,0 +1,17 @@
+body{background-image: linear-gradient(aqua, navy); color: white; font-size: 20pt}
+body{font-family: "Trebuchet MS", serif}
+
+h1 {font-size: 30pt; font-weight: bold; color: black; border: 2px aqua}
+h2 {font-size: 25pt; font-weight: bold; color: black}
+nav li { border: 2px aqua; color: black}
+p {color: white}
+a {color: black; text-decoration: none}
+a:hover {color: gray}
+p {margin-top: 50px; margin-bottom: 100px; margin-left: 50px; margin-right: 50px}
+p2 {margin-top: 50px; margin-bottom: 100px; margin-left: 50px; margin-right: 50px}
+IMG {margin-top: 25px; margin-bottom: 25px; margin-left: 400px; margin-right: 400px}
+A {margin-left: 150px; margin-right: 150px}
+h1 {margin-left: 500px; margin-right: 500px}
+h2 {margin-left: 490px; margin-right: 490px}
+h3 {margin-left: 525px; margin-right: 525px}
+h4 {margin-left: 525px; margin-right: 525px}
